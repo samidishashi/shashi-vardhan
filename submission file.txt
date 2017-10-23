@@ -1,0 +1,7 @@
+Hello professor,
+
+This is link for my GitHub account:https://github.com/samidishashi/shashi-vardhan
+
+My file name MidTearmProject_shashi.ipynb
+
+This is for my project file :https://github.com/samidishashi/shashi-vardhan/blob/master/MidTearmProject_shashi.ipynb
